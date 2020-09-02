@@ -1,0 +1,16 @@
+table {
+	border: solid 1px #fff;
+	border-inline-start: solid 1px #fff;
+}
+th {
+	font-size: 18pt;
+	text-align: left;
+}
+tr {
+	border-top: solid 1px #fff;
+}
+
+td {
+	font-size: 16pt;
+	text-align: left;
+}

@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "name": "Aerial Yoga Teacher Training ANYA",
+      "id": "371647016301628",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Amaia Etxeberria Nutricionista",
+      "id": "193747134545920",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Beauty Room by Almudena Perera",
+      "id": "415471388556962",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Biona Kiropraktika",
+      "id": "549773872171635",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Carlos Olmos - Wellness Coach",
+      "id": "108652937405213",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Ejercicio en Casa",
+      "id": "532296583943016",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Fisiomel clínica de fisioterapia",
+      "id": "108212537414534",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Gimnasio Femenino EASO Donostia",
+      "id": "299465180151116",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Gorka Villar",
+      "id": "1943933812567641",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Hidrodiet",
+      "id": "1989713504630991",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Impact Hub Donostia",
+      "id": "166469596765153",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Longevitas Labs",
+      "id": "1497472613858666",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Manuscrita Mente",
+      "id": "2135486676767078",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Naranco FitBoxing",
+      "id": "104696911093035",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "New Hércules - Estudio deportivo",
+      "id": "169690179790501",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Sandra Pino Fitness Emocional",
+      "id": "1908055139419761",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    },
+    {
+      "name": "Terapias y Osteopatia Orbera",
+      "id": "108727117401425",
+      "tasks": [
+        "ANALYZE",
+        "ADVERTISE",
+        "MODERATE",
+        "CREATE_CONTENT",
+        "MANAGE"
+      ]
+    }
+  ],
+  "paging": {
+    "cursors": {
+      "before": "QVFIUjNiZAVEyNzRFRC1tbDlxLVpCckduMjZAwUGdMSUFOT243RW9yZAmprRHp0V0xfVElPNGNld3ZALcWJiTkF4T2s4TWg0LVhmcEp6X3VPeFRLMFZAZAWnVHNnducTNhbkl2aDdtN0pFcWRjanhDZAU9j",
+      "after": "QVFIUjZAxdXBtU3pOY04tLW5pcjJRNjY4dmJRcWdwYjN1c2E4aV9yWnZAaYTI3RjBuczRPVmRLZATBPTVZArMXc2UGtGWE1IVUFWT2pYWGtYbFdyOXFrei1ObFRDRl9fUEY1LTBSd2VqSWhZAU21aRGNR"
+    }
+  }
+}
